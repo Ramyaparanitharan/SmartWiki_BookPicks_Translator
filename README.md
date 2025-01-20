@@ -64,7 +64,5 @@ Feel free to submit pull requests or raise issues to improve the project.
 
 This project is licensed under the MIT License.
 
-<video width="640" height="360" controls>
-  <source src="./media/smartpick_translator.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Demo](./frontend/smart-wiki/src/assets/images/smartwiki.png)](https://drive.google.com/file/d/1vU6lafex8aYxFKtbGlX4kSUBdiv-2sUM/view?usp=drive_link)
+
