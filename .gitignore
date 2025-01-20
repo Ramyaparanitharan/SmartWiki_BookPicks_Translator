@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+.env/
+
+# Debug and log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Flask-specific
+instance/
+*.sqlite3
+*.db
+.env
+config.py
+persist/
+
+# React-specific
+node_modules/
+build/
+.env.local
+.env.development
+.env.production
+.env.test
+*.cache/
+*.tmp/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Generated files
+*.egg-info/
+dist/
+build/
