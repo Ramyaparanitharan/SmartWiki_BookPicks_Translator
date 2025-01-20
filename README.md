@@ -64,4 +64,4 @@ Feel free to submit pull requests or raise issues to improve the project.
 
 This project is licensed under the MIT License.
 
-![Demo](smartpick_translator.mp4)
+![Demo](media/smartpick_translator.mp4)
