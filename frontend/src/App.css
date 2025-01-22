@@ -1,0 +1,91 @@
+
+* {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.d-flex {
+  display: flex;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.input-group {
+  width: 500px !important;
+  padding: 10px;
+  border-radius: 4px;
+  border:none;
+}
+
+input:focus-visible {
+  outline-color: #ccc;
+}
+
+.justify-space-around { 
+  justify-content: space-around;
+}
+
+.form-control {
+  border-top-right-radius: 5px !important;
+  border-bottom-right-radius: 5px !important;
+}
+
+.form-control:focus {
+  box-shadow: none !important;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.border-grey {
+  border: 1px solid #ccc;
+}
+
+.style-search-word {
+  font-size: 16px;
+  font-weight: 400;
+  color: #666;
+  text-transform: capitalize;
+  align-items: center;
+  margin: 4px 6px;
+}
+
+.border-none.card {
+  border: none;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card-text {
+  font-weight: 400;
+  font-size: 14px;
+  
+}
+
+.fs14 {
+  font-size: 20px;
+}
+
+.description {  
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+}
+
+.truncated-description {
+  -webkit-line-clamp: 5;
+}
+
+.book-description {
+  -webkit-line-clamp: 2;
+}
+
+.h200 {
+  height: 200px;
+}
+
+.w200 {
+  width: 200px;
+}

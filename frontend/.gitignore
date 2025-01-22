@@ -1,0 +1,9 @@
+# React-specific
+node_modules/
+build/
+.env.local
+.env.development
+.env.production
+.env.test
+*.cache/
+*.tmp/
