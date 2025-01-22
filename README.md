@@ -1,5 +1,4 @@
 ## Smart Wiki
-A web application that integrates Wikipedia search, language translation, and curated book recommendations into one platform. Built using React for the frontend and Flask for the backend.
 
 ## Features
 - Search for Wikipedia articles using a keyword or sentence.
